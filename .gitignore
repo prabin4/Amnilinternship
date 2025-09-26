@@ -13,3 +13,5 @@
 /mlruns
 *.joblib
 *.pkl
+*.pkl
+*.joblib
