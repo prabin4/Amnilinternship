@@ -12,7 +12,6 @@
 /Assignment credit card fraud detection (multi model)/credit-card-transactions-dataset
 /mlruns
 *.joblib
-*.pkl
-*.pkl
+
 *.joblib
 /mlartifacts
